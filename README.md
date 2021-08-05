@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![](image/mobie-preview.png)
-![](image/Desktop-preview.png)
+![](https://prnt.sc/1j90mll)
 
 ### Links
 
