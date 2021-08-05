@@ -132,5 +132,6 @@ img {
 	}
 	.statistics__items {
 		margin-right: 1em;
+		text-align: left;
 	}
 }
