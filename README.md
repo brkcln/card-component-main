@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](image/mobie-preview.png)
-![](https://prnt.sc/1j90mll)
+![Mobile preview](https://prnt.sc/1j90z2u)
+![Desktop preview](https://prnt.sc/1j90mll)
 
 ### Links
 
