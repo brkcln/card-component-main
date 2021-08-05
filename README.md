@@ -49,5 +49,5 @@ Users should be able to:
 ## Author
 
 - Website - [Burak Celen](https://www.your-site.comhttps://brkcln.github.io/brkcln/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/brkcln)
+- Frontend Mentor - [@brkcln](https://www.frontendmentor.io/profile/brkcln)
 - Github - [@brkcln](https://github.com/brkcln)
