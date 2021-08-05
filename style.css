@@ -70,7 +70,7 @@ img {
 }
 .hero__image {
 	border-radius: 5px;
-	background: url(/images/image-header-mobile.jpg) no-repeat;
+	background: url(images/image-header-mobile.jpg) no-repeat;
 	background-size: cover;
 	background-position: center center;
 	padding: 7em 0;
