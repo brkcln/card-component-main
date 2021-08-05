@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile preview](https://prnt.sc/1j90z2u)
-![Desktop preview](https://prnt.sc/1j90mll)
+(https://prnt.sc/1j90z2u)
+(https://prnt.sc/1j90mll)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://brkcln.github.io/card-component-main/)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://brkcln.github.io/card-component-main/)
 
 ## My process
 
